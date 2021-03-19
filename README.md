@@ -1,5 +1,6 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike1705&label=Profile%20views&color=0e75b6&style=flat" alt="mike1705" /> </p>
+<p align="left"> <img src="https://discordapp.com/api/guilds/791306350977220618/embed.png?style=shield)](https://discord.gg/wyZrnmj9D8" alt="mike1705" /> </p>
 
 <h1 align="center">👋 Hi, I'm Mike</h1>
 
@@ -7,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mike1705" target="white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mike1705" height="30" width="40" /></a>
+<a href="https://dev.to/mike1705" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mike1705" height="30" width="40" /></a>
 <a href="https://twitter.com/prodnaiki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mike1705" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mike1705" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="mike1705" height="30" width="40" /></a>
 <a href="https://instagram.com/mike.chrt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mike1705" height="30" width="40" /></a>
