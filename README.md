@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mike</h1>
+<h1 align="center">👋 Hi, I'm Mike</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mike1705&theme=onedark&margin-w=15&margin-h=15&column=7" alt="willdoescode" /></a> </p>
 
@@ -8,7 +8,7 @@
 </div>
 
 
-<h1 align="center">Addition Info</h1>
+<h1 align="center">🛈 Addition Info</h1>
 
 - 🔭 I’m currently working on [Python](https://www.python.org/) and [Docker](https://www.docker.com/)
 
