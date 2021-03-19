@@ -10,7 +10,7 @@
 
 <h1 align="center">📄 Addition Info</h1>
 
-- 🔭 I’m currently working on [Python](https://www.python.org/) and [Docker](https://www.docker.com/)
+- 🔭 I’m currently working on [Python](https://www.python.org/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
