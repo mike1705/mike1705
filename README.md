@@ -16,7 +16,7 @@
 <a href="https://www.leetcode.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="willdoescode" height="30" width="40" /></a>
 </p>
 
-##📊 User Stats
+## 📊 User Stats
 <!-- USER-STAT-LIST:START -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mike1705&theme=onedark&margin-w=15&margin-h=15&column=7" alt="willdoescode" /></a> </p>
 
