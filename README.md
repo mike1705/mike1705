@@ -8,7 +8,7 @@
 </div>
 
 
-<h5 align="center">📄 Addition Info</h5>
+<h1 align="center">📄 Addition Info</h1>
 
 - 🔭 I’m currently working on [Python](https://www.python.org/) and [Docker](https://www.docker.com/)
 
