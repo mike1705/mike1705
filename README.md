@@ -3,13 +3,7 @@
 
 <h1 align="center">👋 Hi, I'm Mike</h1>
 
-- 🔭 I’m currently working on [Zig](https://ziglang.org/) and [Elixir](https://elixir-lang.org/)
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Effective Interfaces In Golang](https://dev.to/willdoescode/effective-interfaces-in-golang-3l3n)
-- [How to operator overload in Rust.](https://dev.to/willdoescode/how-to-operator-overload-in-rust-33cp)
-<!-- BLOG-POST-LIST:END -->
+- 🔭 I’m currently working on [Python](https://www.python.org/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
