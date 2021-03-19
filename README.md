@@ -1,6 +1,5 @@
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mike1705&label=Profile%20views&color=0e75b6&style=flat" alt="mike1705" /><p align="left"> <img src="https://discordapp.com/api/guilds/791306350977220618/embed.png?style=shield" alt="mike1705" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mike1705&label=Profile%20views&color=0e75b6&style=flat" alt="mike1705" />
 
 <h1 align="center">👋 Hi, I'm Mike</h1>
 
