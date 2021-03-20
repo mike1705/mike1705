@@ -2,8 +2,21 @@
 
 <h1><a href="https://instagram.com/mike.chrt/"><img src="https://media.giphy.com/media/4JtXt9i56Wp6U/giphy.gif" width="35px"></a> ｍｉｋｅ</h1>
 
-<img src="https://komarev.com/ghpvc/?username=mike1705&label=Profile%20views&color=0e75b6&style=flat" alt="mike1705" />
-<img src="https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/538751421441507346?vscode=false&logo=bitrise&color=darkgreen&style=flat" alt="now playing, from discord" />
+<div align=center>
+
+  <a href="https://discord.gg/pnYVdut">
+    <img src="https://discordapp.com/api/guilds/709992782252474429/widget.png?style=shield" alt="shield.png">
+  </a>
+
+  <a href="https://github.com/discordjs">
+    <img src="https://img.shields.io/badge/discord.js-v12.3.1-blue.svg?logo=npm" alt="shield.png">
+  </a>
+
+  <a href="https://github.com/sabattle/CalypsoBot/blob/develop/LICENSE">
+    <img src="https://img.shields.io/badge/license-GNU%20GPL%20v3-green" alt="shield.png">
+  </a>
+
+</div>
 
 - 🔭 I’m currently working on [Python](https://www.python.org/)
 
