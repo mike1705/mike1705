@@ -42,5 +42,5 @@
 
 ## 🎵 Playlists
 <!-- PLAYLIST-LIST:START -->
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/3wtde1GIRIb2thZh5Q7aLL)
 <!-- PLAYLIST-LIST:END -->
