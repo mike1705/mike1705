@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://ko-fi.com/M4M433D4H">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="100px" alt="support me">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="150px" alt="support me">
   </a>
  
 </div>
