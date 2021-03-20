@@ -42,5 +42,7 @@
 
 ## 🎵 Playlists
 <!-- PLAYLIST-LIST:START -->
-
+  <a href="https://open.spotify.com/playlist/0CzIHUiWrJpt5YprseDwnQ?si=7eymBbssQ3W2RL6Qtw3yoA">
+    <img src="https://open.spotify.com/playlist/0CzIHUiWrJpt5YprseDwnQ?si=7eymBbssQ3W2RL6Qtw3yoA" alt="da plug">
+  </a>
 <!-- PLAYLIST-LIST:END -->
