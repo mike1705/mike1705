@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=mike1705&label=Profile%20views&color=0e75b6&style=flat" alt="mike1705" />
-<img src="https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/profiles/538751421441507346?vscode=false&logo=bitrise&color=darkgreen&style=flat" alt="now playing, from discord">
+<img src="https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/538751421441507346?vscode=false&logo=bitrise&color=darkgreen&style=flat" alt="now playing, from discord">
 
 <h1 align="center">👋 Hi, I'm Mike</h1>
 
