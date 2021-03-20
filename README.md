@@ -7,7 +7,7 @@
   </a>
 
   <a href="https://github.com/maikdoescode">
-    <img src="https://komarev.com/ghpvc/?username=maikdoescode&label=Profile%20views&color=0e75b6&style=flat" alt="mike1705">
+    <img src="https://komarev.com/ghpvc/?username=maikdoescode&label=Profile%20views&color=0e75b6&style=flat" alt="maikdoescode">
   </a>
 
   <a href="https://discord.com/">
