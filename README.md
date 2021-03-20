@@ -38,11 +38,6 @@
 ## 📊 User Stats
 <!-- USER-STAT-LIST:START -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maikdoescode&theme=onedark&margin-w=15&margin-h=15&column=7" alt="mike1705" /></a> </p>
-
-<div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=maikdoescode&count_private=true&include_all_commits=true&theme=onedark" alt="mike1705" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikdoescode&layout=compact&theme=onedark&langs_count=15" />
-</div>
 <!-- USER-STAT-LIST:END -->
 
 ## 🎵 Playlists
