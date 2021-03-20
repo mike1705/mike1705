@@ -11,6 +11,7 @@
 <a href="https://twitter.com/prodnaiki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mike1705" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mike1705" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="mike1705" height="30" width="40" /></a>
 <a href="https://instagram.com/mike.chrt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mike1705" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/5slvtmzdvpt7apdpxevhutblj?si=HYqAddrsQji22JI713lkLg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="mike1705" height="30" width="40" /></a>
 </p>
 
 ## 📊 User Stats
@@ -22,5 +23,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike1705&layout=compact&theme=onedark&langs_count=15" />
 </div>
 <!-- USER-STAT-LIST:END -->
-
 
