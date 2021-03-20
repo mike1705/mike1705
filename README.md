@@ -17,7 +17,7 @@
 </div>
 
 <div align=center>
-<h1><a href="https://instagram.com/mike.chrt/"><img src="https://media.giphy.com/media/4JtXt9i56Wp6U/giphy.gif" width="100px"></a> ｍｉｋｅ</h1>
+<h1><a href="https://instagram.com/mike.chrt/"><img src="https://media.giphy.com/media/4JtXt9i56Wp6U/giphy.gif" width="30px"></a> ｍｉｋｅ</h1>
  </div>
 
 - 🔭 I’m currently working on [Python](https://www.python.org/)
