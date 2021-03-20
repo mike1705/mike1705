@@ -1,6 +1,10 @@
 ---
 
 <div align=center>
+  
+  <a href="https://discord.gg/5qmGXNAY3x">
+    <img src="https://discordapp.com/api/guilds/791306350977220618/widget.png?style=shield" alt="server">
+  </a>
 
   <a href="https://github.com/mike1705">
     <img src="https://komarev.com/ghpvc/?username=mike1705&label=Profile%20views&color=0e75b6&style=flat" alt="mike1705">
