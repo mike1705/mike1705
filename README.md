@@ -9,10 +9,6 @@
   <a href="https://github.com/maikdoescode">
     <img src="https://komarev.com/ghpvc/?username=maikdoescode&label=Profile%20views&color=0e75b6&style=flat" alt="maikdoescode">
   </a>
-
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/538751421441507346?vscode=false&logo=bitrise&color=darkgreen&style=flat" alt="now playing, from discord">
-  </a>
   
   <a href="https://ko-fi.com/M4M433D4H">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="150px" alt="support me">
