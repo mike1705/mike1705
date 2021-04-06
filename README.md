@@ -24,7 +24,7 @@
 
 ## 📊 User Stats
 <!-- USER-STAT-LIST:START -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maikdoescode&theme=onedark&margin-w=15&margin-h=15&column=7" alt="mike1705" /></a> </p>
+<p align="left"> <a href="https://github.com/maikdoescode"><img src="https://github-profile-trophy.vercel.app/?username=maikdoescode&theme=onedark&margin-w=15&margin-h=15&column=7" alt="mike1705" /></a> </p>
 <!-- USER-STAT-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
