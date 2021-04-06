@@ -34,5 +34,3 @@
 <a href="https://instagram.com/mike.chrt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mike1705" height="30" width="40" /></a>
 <a href="https://open.spotify.com/playlist/3wtde1GIRIb2thZh5Q7aLL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="mike1705" height="30" width="40" /></a>
 </p>
-
-<a href="https://open.spotify.com/embed/playlist/0CzIHUiWrJpt5YprseDwnQ" target="blank"><img align="center" src="https://open.spotify.com/embed/playlist/0CzIHUiWrJpt5YprseDwnQ" alt="mike1705" height="380" width="300"  frameborder="0" allowtransparency="true" allow="encrypted-media" /></a>
