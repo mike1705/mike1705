@@ -9,10 +9,6 @@
   <a href="https://github.com/maikdoescode">
     <img src="https://komarev.com/ghpvc/?username=maikdoescode&label=Profile%20views&color=0e75b6&style=flat" alt="maikdoescode">
   </a>
-  
-  <a href="https://ko-fi.com/M4M433D4H">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="150px" alt="support me">
-  </a>
  
 </div>
 
